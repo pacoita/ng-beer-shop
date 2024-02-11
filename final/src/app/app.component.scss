@@ -1,0 +1,20 @@
+.fav-icon {
+    font-size: 2.5rem;
+    width: 40px;
+    height: 40px;
+    color: #dc0033;
+}    
+
+.fav-count {
+    position: absolute;
+    top: 10px;
+    left: 15px;
+}
+
+.flex-center {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 1rem;
+    flex-wrap: wrap;
+}
