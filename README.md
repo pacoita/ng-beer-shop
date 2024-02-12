@@ -1,6 +1,9 @@
 # 🍺 Angular Beer Shop Gallery🍺
 
-This is a demo project to create a beer shop gallery and practice with Angular signals.
+This is a demo project to create a beer shop gallery and practice with Angular framework and signals specifically.
+
+![image](https://github.com/pacoita/ng-beer-shop/assets/13237093/401da4ed-acd0-488f-b6ce-2a31d84df7c0)
+
 
 ## Structure
 
@@ -16,6 +19,7 @@ There are two folders:
 - Each beer can be toggled as favorite 
 - The no. of favourite beers must be tracked in the UI
 - From 5 favorite beers, shipping cost is for free (update the label text accordingly)
+- Reactivity should be implemented using Angular Signals
  
 Pro requirement 🚀 (optional)
 - Set a random price to each beer item (this is not provided by teh API) and add a drop down for the order quantity. It should be possible to select the number of beers to order for each item
