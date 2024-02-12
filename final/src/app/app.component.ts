@@ -25,7 +25,7 @@ export class AppComponent implements OnInit {
   constructor() {
     // effect() can only be used within an injection context such as a constructor, a factory function, a field initializer.
     effect(() => {
-      console.log(`The count is: ${this.favCount()}`);
+      console.log(`Number of fav. beers: ${this.favCount()}`);
       if (this.favCount() > 4) {
         this.shippingCost = 'Free!';
       } else {
