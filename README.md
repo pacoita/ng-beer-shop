@@ -2,6 +2,8 @@
 
 This is a demo project to create a beer shop gallery and practice with Angular framework and signals specifically.
 
+NB. Unfortunately, the punkapi is no longer available and the beer images won't be downloaded. Nevertheless, all JSON data is still available locally, so the app will keep working.
+
 ![image](https://github.com/pacoita/ng-beer-shop/assets/13237093/401da4ed-acd0-488f-b6ce-2a31d84df7c0)
 
 
